@@ -1,7 +1,5 @@
-
-import java.util.Scanner;
-
 //    Convert Integer to Roman
+import java.util.Scanner;
 
 public class Question1 {
     public static void main(String[] args) {
