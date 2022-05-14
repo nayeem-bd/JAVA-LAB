@@ -1,5 +1,5 @@
 package labprac;
-
+// Pronic Number
 class Pronic {
     public static boolean isPronicNumber(int n){
         int sq = (int) Math.sqrt(n);
