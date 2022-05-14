@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package labprac;
-
+// Identity matrix
 import java.util.Scanner;
 
 /**
