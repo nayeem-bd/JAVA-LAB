@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package labprac;
-
+// lower triangular and upper triangular
 import java.util.Scanner;
 
 /**
