@@ -1,5 +1,5 @@
 package labprac;
-
+// Integer to Word
 import java.util.Scanner;
 
 public class Question2 {   
