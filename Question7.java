@@ -1,6 +1,6 @@
 
 package labprac;
-
+// check palindrome
 class Palindrome {
     boolean isPalindrome(int n){
         int tmp = n,n_val=0;
