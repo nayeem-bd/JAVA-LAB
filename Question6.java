@@ -1,7 +1,7 @@
 package labprac;
 
 import java.util.Scanner;
-
+// count number of vowel ,consonant,special and numeric
 class CharCheck {
 
     public String classifyChar(char a) {
