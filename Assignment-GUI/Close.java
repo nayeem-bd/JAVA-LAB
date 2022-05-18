@@ -11,8 +11,8 @@ import javax.swing.JFrame;
 public class Close{
     
     Close(){
-        Frame main=new JFrame("Master");
-        Frame sub=new JFrame("Temporary");
+        Frame main=new Frame("Master");
+        Frame sub=new Frame("Temporary");
         
         main.addWindowListener(new WindowAdapter() {
             @Override
